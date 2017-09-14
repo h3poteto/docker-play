@@ -1,4 +1,4 @@
-FROM h3poteto/activator
+FROM h3poteto/sbt:0.13.16
 
 USER root
 
